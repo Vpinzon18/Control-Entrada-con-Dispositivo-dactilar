@@ -1,0 +1,139 @@
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe.config
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.pdb
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.AssemblyReference.cache
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.SuggestedBindingRedirects.cache
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Login.resources
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Properties.Resources.resources
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.GenerateResource.cache
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CoreCompileInputs.cache
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.exe
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.pdb
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Menu.resources
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Usuarios.resources
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPGuiNET.dll
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPShrNET.dll
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Personas.resources
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CopyComplete
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPVerNET.dll
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.AgregarPersonas.resources
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ModificarPersonas.resources
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ControlEntradaSalida.resources
+C:\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Reportes.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe.config
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.pdb
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPGuiNET.dll
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPShrNET.dll
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\dpfpvernet.dll
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.AssemblyReference.cache
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.SuggestedBindingRedirects.cache
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.AgregarPersonas.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ControlEntradaSalida.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Login.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Menu.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ModificarPersonas.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Personas.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Properties.Resources.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Reportes.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Usuarios.resources
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.GenerateResource.cache
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CoreCompileInputs.cache
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CopyComplete
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.exe
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.pdb
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.dll
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.xmlworker.dll
+C:\ControlDeEntradaSena2.1 Diseño Faltan Reportes\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.xml
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe.config
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.pdb
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\BouncyCastle.Crypto.dll
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPCtlXWrapperNET.dll
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPGuiNET.dll
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPShrNET.dll
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\dpfpvernet.dll
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.dll
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.xmlworker.dll
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.xml
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.AssemblyReference.cache
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.SuggestedBindingRedirects.cache
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Acerca_de.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.AgregarPersonas.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ControlEntradaSalida.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Login.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Menu.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ModificarPersonas.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Personas.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Properties.Resources.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Reportes.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Usuarios.resources
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.GenerateResource.cache
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CoreCompileInputs.cache
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CopyComplete
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.exe
+F:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.pdb
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe.config
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.pdb
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\BouncyCastle.Crypto.dll
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPGuiNET.dll
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPShrNET.dll
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\dpfpvernet.dll
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.dll
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.xmlworker.dll
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.xml
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.AssemblyReference.cache
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.SuggestedBindingRedirects.cache
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Acerca_de.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.AgregarPersonas.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ControlEntradaSalida.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Login.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Menu.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ModificarPersonas.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Personas.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Properties.Resources.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Reportes.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Usuarios.resources
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.GenerateResource.cache
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CoreCompileInputs.cache
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CopyComplete
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.exe
+D:\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.pdb
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe.config
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.exe
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\ControlDeEntradaSena2.0.pdb
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\BouncyCastle.Crypto.dll
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPGuiNET.dll
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\DPFPShrNET.dll
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\dpfpvernet.dll
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.dll
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.xmlworker.dll
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\bin\Debug\itextsharp.xml
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.AssemblyReference.cache
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.SuggestedBindingRedirects.cache
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Acerca_de.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.AgregarPersonas.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ControlEntradaSalida.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Login.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Menu.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.ModificarPersonas.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Personas.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Properties.Resources.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Reportes.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2._0.Usuarios.resources
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.GenerateResource.cache
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CoreCompileInputs.cache
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena.csproj.CopyComplete
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.exe
+D:\Guias C#\ControlDeEntradaSena2.3 COMPLETO\ControlDeEntradaSena2.0\ControlDeEntradaSena2.0\obj\Debug\ControlDeEntradaSena2.0.pdb
